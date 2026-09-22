@@ -200,23 +200,6 @@ I'm particularly interested in opportunities and collaborations involving:
 
 **Data Analytics • Data Engineering • AI/GenAI Consulting • Business Analytics • Technical Product Strategy • Machine Learning • RAG Systems • AI Automation • Edge AI • Energy Technology**
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=adityagupta050899&show_icons=true&hide_border=true"
-    width="48%"
-    alt="Aditya Gupta GitHub Stats"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta050899&layout=compact&hide_border=true"
-    width="40%"
-    alt="Aditya Gupta Top Languages"
-  />
-</p>
 
 ---
 
